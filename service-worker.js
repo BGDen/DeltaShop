@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DeltaShop/precache-manifest.d0b1028d170939b2a58d78d068371b70.js"
+  "/DeltaShop/precache-manifest.efc7c0d1d8a0361291cd77ef408ffc80.js"
 );
 
 self.addEventListener('message', (event) => {
