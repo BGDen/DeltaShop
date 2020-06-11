@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d382fd9aac1eba4dc96899c86357505e",
+    "revision": "903c099b2d0484976176873b84aafa34",
     "url": "/DeltaShop/index.html"
   },
   {
-    "revision": "53a8667580277e3ef283",
-    "url": "/DeltaShop/static/js/2.683e2562.chunk.js"
+    "revision": "11c5bf02ae1a6bc697ff",
+    "url": "/DeltaShop/static/js/2.772b8c9c.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/DeltaShop/static/js/2.683e2562.chunk.js.LICENSE.txt"
+    "url": "/DeltaShop/static/js/2.772b8c9c.chunk.js.LICENSE.txt"
   },
   {
     "revision": "483587343717b6fe65e8",
